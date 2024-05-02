@@ -1,0 +1,18 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+body {
+  position: relative;
+}
+
+img {
+  background-color: rgb(255 0 0 / 10%);
+  position: absolute;
+  top: 0;
+  left: 0;
+  height: 100%;
+  width: 100%;
+  rotate: 180deg;
+}
